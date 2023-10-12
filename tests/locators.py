@@ -20,9 +20,3 @@ class Locators:
     STUFFING_SECTION = (By.XPATH, "//span[contains(text(),'Начинки')]") # Раздел «Начинки»
     LOGIN_FORM_TITLE = (By.XPATH, "//h2[contains(text(),'Вход')]")  # Заголовок формы авторизации
     LOGO = (By.CLASS_NAME, "AppHeader_header__logo__2D0X2") # Логотип
-
-
-
-
-
-
